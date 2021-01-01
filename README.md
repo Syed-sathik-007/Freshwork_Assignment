@@ -2,8 +2,8 @@
 
 # Steps to run:
 1.The java code is platform independent. So, it can run in all kind of platform. 
-2.Clone the code and add json package attched as jar inside the library.
-3.Run the key_value.java file
+2.Clone the code.
+3.Run the key_value.java file.
 
 
 # FUNCTIONAL REQUIREMENTS 
