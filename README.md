@@ -5,6 +5,10 @@
 
 2.Clone the code.
 
+```
+git clone
+```
+
 3.Run the Key_Value.java file.
 
 
