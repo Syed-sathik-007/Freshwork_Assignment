@@ -42,3 +42,17 @@ public class Key_Value {
 }
 ```
 
+# Executed output
+
+Your output may look like this.
+```
+Key added successfully
+Key added successfully
+Key is already present
+Value of syed : 100
+Value of vijay : 50
+Key not found
+Key deleted successfully
+Key deleted successfully
+No data Exists
+```
