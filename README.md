@@ -13,9 +13,9 @@ git clone https://github.com/Syed-sathik-007/Freshwork_Assignment.git
 4.Build the path to the jar files in the lib folder. ie: Build path -> configure build path -> add external jar file -> select the jar file from the required folder. 
 
 5.Import the library.
-```
-import Key_value_operation.CRD;
 ```java
+import Key_value_operation.CRD;
+```
 6.For referance, see the below code.
 ```java
 import org.json.simple.JSONObject;
