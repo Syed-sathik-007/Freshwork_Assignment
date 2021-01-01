@@ -34,7 +34,6 @@
 
 4.The client will bear as little memory costs as possible to use this data store, while deriving maximum performance with respect to response times for accessing the data store.
 
-
-'''
+```
 Git clone
-'''
+```
