@@ -3,10 +3,10 @@
 # Steps to run:
 1.The java code is platform independent. So, it can run in all kind of platform. 
 
-2.Clone the code.
+2.Clone the code using the given code.
 
 ```
-git clone
+git clone https://github.com/Syed-sathik-007/Freshwork_Assignment.git
 ```
 
 3.Run the Key_Value.java file.
