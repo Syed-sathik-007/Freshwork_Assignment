@@ -9,7 +9,14 @@
 git clone https://github.com/Syed-sathik-007/Freshwork_Assignment.git
 ```
 
-3.Run the Key_Value.java file.
+3. Create a new java class and import the lib folder in our repository.
+
+4.Build the path to the jar files in the lib folder.
+
+5.Import the library.
+```
+import Key_value_operation.CRD;
+```
 
 
 # FUNCTIONAL REQUIREMENTS 
