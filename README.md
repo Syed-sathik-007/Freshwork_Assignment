@@ -17,7 +17,7 @@ git clone https://github.com/Syed-sathik-007/Freshwork_Assignment.git
 import Key_value_operation.CRD;
 ```
 6. For referance, see the below code.
-```
+```java
 import org.json.simple.JSONObject;
 import java.io.*;
 import Key_value_operation.CRD;
