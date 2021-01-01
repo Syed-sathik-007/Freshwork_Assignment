@@ -8,10 +8,9 @@
 ```
 git clone https://github.com/Syed-sathik-007/Freshwork_Assignment.git
 ```
+3.Create a new java class and import the lib folder in our repository.
 
-3. Create a new java class and import the lib folder in our repository.
-
-4.Build the path to the jar files in the lib folder.
+4.Build the path to the jar files in the lib folder. ie: Build path -> configure build path -> add external jar file -> select the jar file from the required folder. 
 
 5.Import the library.
 ```
